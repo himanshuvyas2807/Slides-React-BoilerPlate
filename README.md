@@ -11,6 +11,7 @@
 - Clicking on the "Prev" button shows the previous slide. This button is disabled when the current slide is the first one.
 - Clicking on the "Restart" button returns to the first slide. This button is disabled when the current slide is the first one.
 - You can assume that the passed slides array contains at least one slide.
+- Slides data is in ```src/data.js```.
 - Initially, the file is filled with boilerplate code. 
 **Note the following:**
 - The "Restart" button must have ```data-testid="button-restart"```.
