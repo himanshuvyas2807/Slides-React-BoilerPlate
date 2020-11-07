@@ -1,12 +1,23 @@
-h1 {
-    color: #27aedb;
-    text-align: center;
-    }
-    
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
 
-button{
-    color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+#navigation {
+  margin-bottom: 2rem;
+}
+
+#navigation button {
+  margin-right: 1rem;
+}
+
+#slide {
+  border: 1px solid #eee;
+  padding: 1rem;
+  min-height: 300px;
+}
+
+button {
+  min-width: 80px;
 }
