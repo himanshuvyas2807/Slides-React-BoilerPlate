@@ -11,8 +11,8 @@
 - Clicking on the "Prev" button shows the previous slide. This button is disabled when the current slide is the first one.
 - Clicking on the "Restart" button returns to the first slide. This button is disabled when the current slide is the first one.
 - You can assume that the passed slides array contains at least one slide.
-- Initially, the file is filled with boilerplate code. Note the following:
-
+- Initially, the file is filled with boilerplate code. 
+**Note the following:**
 - The "Restart" button must have ```data-testid="button-restart"```.
 - The "Prev" button must have ```data-testid="button-prev"```.
 - The "Next" button must have ```data-testid="button-next"```.
